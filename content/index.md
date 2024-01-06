@@ -5,14 +5,11 @@ tags:
 enableToc: "false"
 date: 2024-01-01
 ---
-
-This is the place where I share my thoughts. It was [[My 2024 New Years resolution]] to create a digital garden and write something to be shared every Monday. Everything on this site is licensed under the 
+This is the place where I share my thoughts. It was [[My 2024 New Years resolution]] to create a digital garden and write something interesting to be shared every Monday.
 
 My latest post is [[Conquer the stack]] where I think about the evolution of the internet and how you can reclaim your sovereignty from Big Tech and Big Govt.
 
 I think you should read about [[The tragedy of Discord]] and why you should not use it for your community.
-
-[[My 2024 New Years resolution]]
 
 
 > [!info]

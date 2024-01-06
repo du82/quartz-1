@@ -10,6 +10,7 @@ I've noticed in recent years a trend towards decentralized and open source techn
 Out of this, I've noticed a shift in the power dynamic between users and platform operators, and users remain disadvantaged. To gain true freedom, I believe that users must "conquer the stack".
 
 ## How did we get here?
+Below I'll provide a **highly summarized** history of the evolution of the internet.
 
 ### The pre-internet networks
 In the early days of what we know as the internet, particularly in 1978, services operated primarily by individuals, known as Bulletin Board Systems (BBSes) were started to organize and share information on the internet.
