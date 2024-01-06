@@ -26,6 +26,10 @@ I've always had a fear that without sharing my thoughts, they would be forgotten
 ### Regarding copyright
 Everything on this website is licensed under [Attribution-NonCommercial-NoDerivatives 4.0 International ](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1)and 10 years after its publication, each piece of writing (and all drawings, diagrams, code, and pictures) enters the public domain via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-I picked the `CC BY-NC-ND 4.0` license because I want people to be able to freely share my work, but I recognize that textbook publishers will try to take without giving back. By making attribution required, and by disallowing commercial use and derivative work, I can ensure that my work is freely shared by those with pure intentions, while making it unattractive towards those who wish to monetize it.
+I picked the `CC BY-NC-ND 4.0` license because I want people to be able to freely share my work, but I recognize that textbook publishers and other terrible organizations will try to take without giving back. By making attribution required, and by disallowing commercial use and derivative work, I can ensure that my work is freely shared by those with pure intentions, while making it unattractive towards those who wish to monetize it.
 
 At the top of this page is a valid public domain notice that shows that this page is indeed in the public domain. It will always include the date that it entered the public domain as well as a link back to this section.
+
+"Living documents" are pages that I update frequently (or are automatically updated), there's not many of them. These are exempt from the copyright rule that the rest of the pages on this site follow, and they will have a banner that says so.
+
+Be sure to check the posts that you plan to use to make sure that they're actually in the public domain.
