@@ -3,7 +3,7 @@ title: Conquer the stack
 author: Du Cheng
 date: 2023-12-29
 tags:
-  - Sovereignty
+  - sovereignty
 ---
 I've noticed in recent years a trend towards decentralized and open source technologies with an emphasis on increased liberties to post, share, and create what you want without having to please the site operators or their algorithms.
 
