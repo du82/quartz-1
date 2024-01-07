@@ -77,7 +77,5 @@ Linux is the way to go. When starting out, I think you should choose Ubuntu Serv
 ## Applications
 Software is the hardest part of the process, since you need something that will be stable, secure, and not be abandoned by its developers months after you select it. Open source is the way to go. 
 
-
-
 [^1]: Although IRC has become more centralized over the years, its still a decentralized protocol with no one server controlling everything.
 [^2]: The term Web3 was coined in 2014, although didn't gain meaningful relevance until around 2020

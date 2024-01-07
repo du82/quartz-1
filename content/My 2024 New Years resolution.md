@@ -18,7 +18,7 @@ I've always had a fear that without sharing my thoughts, they would be forgotten
 
 ### The rules I set for myself
 1. I must publish something every Monday, at the very latest Tuesday morning.
-2. I can correct an article the rest of the week up until Sunday night at midnight CST.
+2. I can correct that piece the rest of the week up until Sunday night at midnight CST.
 3. After that, it gets locked and I can only correct typos and factual inaccuracies such as dates.
 4. Each post enters the public domain after 10 years of its publication or if I put a public domain notice at the top of the page. This whole "Life of the author + 70 years" stuff angers me. Information wants to be free!
 5. I must create all diagrams and take my own pictures. These are also in the public domain after 10 years.
