@@ -54,7 +54,7 @@ You have no power or control over Discord, your data, or your account. You can't
 ## Users have no privacy
 You have no control or insight into how Discord uses your data. This should scare you, especially considering their investment and data sharing agreements with Tencent;  a company with an awful track record regarding privacy.
 
-Your DMs on Discord are not end-to-end encrypted[^2]. Their "trust and safety" [employees are untrustworthy](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord#untrustworthy-staff), and can read your DMs, as well as ban and unban your entire account for any reason.
+Your DMs on Discord are not end-to-end encrypted[^2]. Their "trust and safety" [employees are untrustworthy](https://cadence.moe/blog/2020-06-06-why-you-shouldnt-trust-discord#untrustworthy-staff), and can read your DMs, as well as ban and unban your entire account for any reason. #privacy and #obscurity do not exist on Discord at all.
 
 # What makes this a tragedy?
 People have willingly given up the freedoms and privacy that they had on IRC and Matrix to move towards a centralized platform that is hostile towards them, does not care about them, and actively exploits them for monetary benefit.

@@ -8,6 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/du82",
+      Mirrors: "/mirrors",
+      License: "/My-2024-New-Years-resolution#regarding-copyright",
     },
   }),
 }

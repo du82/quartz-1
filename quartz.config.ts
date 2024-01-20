@@ -7,10 +7,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "",
     },
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "bamboo-garden.pages.dev",
+    ignorePatterns: ["private", "mirrors", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       typography: {

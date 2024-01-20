@@ -62,7 +62,7 @@ This is an idea that I've had for years, which revolves around the idea of the f
 ## Hardware
 This is the top of the food chain, and by far the most important part. Acquiring your own hardware is important since without controlling the hardware, you can be shut down at any moment by your service provider for any reason if they aren't happy with your content or users, which will affect your entire stack.
 
-When starting out, I'd look into used desktops. This is the route that I took years ago, and am still satisfied wth. They're easy to transport and can be bought very cheaply from businesses that are selling their old supply as they upgrade.
+When starting out, I'd look into used desktops, which can be bought cheaply on sites like Ebay. This is the route that I took years ago, and am still satisfied wth. They're easy to transport and can be bought very cheaply from businesses that are selling their old supply as they upgrade.
 
 ## Networking
 Networking and ISPs are the second most important part, since your network operator (usually your ISP) has total control over your services ability to be seen and reached by others. You can relocate hardware if you aren't able to get another ISP in your area due to monopolistic agreements that divide most cities into regions only served by one ISP.

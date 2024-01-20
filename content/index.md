@@ -12,4 +12,4 @@ My latest post is [[Conquer the stack]] where I think about the evolution of the
 I think you should read about [[The tragedy of Discord]] and why you should not use it for your community.
 
 ### About me
-I am an average guy who cares a lot about #privacy and #sovereignty and has worked for multiple companies that develop encrypted #chat-apps.
+I am an aspiring generalist (in the field of computer science) who cares a lot about #privacy and #sovereignty and has worked for multiple companies that develop encrypted #chat-apps.
