@@ -26,7 +26,10 @@ My small laptop is a *Lenovo Yoga 14" 2018 edition*. It was a gift from my famil
 I love playing games, and I want a game console that doesn't lock me into its ecosystem, so I went with a maxxed out Steam Deck; the one with the frosted glass screen and the nicer case. I've got a dock for it as well, and it suits my lifestyle well.
 
 ## Phones
-I recently got an unlocked [Google Pixel 7a](https://store.google.com/product/pixel_7a) (running [GrapheneOS](https://grapheneos.org/)) after being told that being a cybersecurity professional with a phone that's years out of date (in terms of security) is unacceptable. I have two old phones that I still keep around for various things (like installing sketchy software)
+I recently got an unlocked [Google Pixel 7a](https://store.google.com/product/pixel_7a) (running [GrapheneOS](https://grapheneos.org/)) after being told that being a cybersecurity professional with a phone that's years out of date (in terms of security) is unacceptable, especially with the kinds of services that I host and being a political target. I have two old phones that I still keep around for various things (like checking WeChat) but they rarely leave home.
 
 ## Storage
-While they are expensive, I love the SanDisk Pro Blade series of storage devices, and I keep a few of the drives with me whenever I travel, encrypted of course.
+While they are expensive, I love the SanDisk Pro Blade series of storage devices, and I keep a few of the drives with me whenever I travel, encrypted of course. I used to carry around bare SSDs, but that led to catastrophic data loss, destruction, and other failures.
+
+## Operating System
+I love virtual machines, so most of what I do runs inside of one, typically inside of Qubes OS. I will not use Windows for anything personal unless there's significant amounts of money to be made and the ONLY way to earn it relies on Windows software (such as Minecraft content sales).
